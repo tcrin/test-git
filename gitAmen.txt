@@ -1,1 +1,4 @@
 funct1
+funct2
+funct3
+funct4
